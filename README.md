@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [combinatorics](#combinatorics) (1)
 - [math](#math) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 553A | [Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/553/A%20-%20Kyoya%20and%20Colored%20Balls/solution.cpp) |
 
 ### combinatorics
 
