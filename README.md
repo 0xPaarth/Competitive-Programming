@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [combinatorics](#combinatorics) (2)
+- [brute force](#brute-force) (1)
+- [combinatorics](#combinatorics) (3)
 - [dp](#dp) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -26,12 +28,19 @@
 | 553A | [Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/553/A%20-%20Kyoya%20and%20Colored%20Balls/solution.cpp) |
 | 1501C | [Going Home](https://codeforces.com/contest/1501/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1501/C%20-%20Going%20Home/solution.cpp) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
+
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 57C | [Array](https://codeforces.com/contest/57/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/57/C%20-%20Array/solution.cpp) |
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
+| 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
 
 ### dp
 
@@ -44,6 +53,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 57C | [Array](https://codeforces.com/contest/57/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/57/C%20-%20Array/solution.cpp) |
+| 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
 
 ---
 
