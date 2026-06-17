@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 8 |
+| 7 | 9 |
 
 ---
 
@@ -17,8 +17,9 @@
 - [combinatorics](#combinatorics) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
+- [probabilities](#probabilities) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -63,6 +64,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 57C | [Array](https://codeforces.com/contest/57/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/57/C%20-%20Array/solution.cpp) |
+| 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/312/B%20-%20Archer/solution.cpp) |
 | 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
 
 ### number theory
@@ -70,6 +72,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/312/B%20-%20Archer/solution.cpp) |
 
 ### two pointers
 
