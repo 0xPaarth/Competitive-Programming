@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 10 |
+| 11 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (5)
@@ -32,6 +32,7 @@
 | 553A | [Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/553/A%20-%20Kyoya%20and%20Colored%20Balls/solution.cpp) |
 | 1501C | [Going Home](https://codeforces.com/contest/1501/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1501/C%20-%20Going%20Home/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+| 2237D | [Fullmetal Bitchemist](https://codeforces.com/contest/2237/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/D%20-%20Fullmetal%20Bitchemist/solution.cpp) |
 
 ### bitmasks
 
