@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 11 |
+| 13 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [combinatorics](#combinatorics) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (3)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (3)
@@ -77,6 +77,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
 
 ### math
 
