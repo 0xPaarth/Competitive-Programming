@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 11 |
+| 14 | 11 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (5)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [greedy](#greedy) (2)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
@@ -70,6 +70,7 @@
 |---|---------|------------|----------|
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.cpp) |
 | 577B | [Modulo Sum](https://codeforces.com/contest/577/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/577/B%20-%20Modulo%20Sum/solution.cpp) |
+| 687C | [The Values You Can Make](https://codeforces.com/contest/687/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/687/C%20-%20The%20Values%20You%20Can%20Make/solution.cpp) |
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 
 ### greedy
