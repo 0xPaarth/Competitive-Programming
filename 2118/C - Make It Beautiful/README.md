@@ -1,0 +1,22 @@
+<h2><a href="https://codeforces.com/contest/2118/problem/C" target="_blank" rel="noopener noreferrer">2118C — Make It Beautiful</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1300 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2118C](https://codeforces.com/contest/2118/problem/C) |
+
+## Topics
+`bitmasks` `data structures` `greedy` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Make It Beautiful</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given an array $$$a$$$ of $$$n$$$ integers. We define the $$$\text{beauty}$$$ of a number $$$x$$$ to be the number of $$$1$$$ bits in its binary representation. We define the beauty of an array to be the sum of beauties of the numbers it contains. </p><p>In one operation, you can select an index $$$i$$$ $$$(1 \le i \le n)$$$ and increase $$$a_i$$$ by $$$1$$$. </p><p>Find the maximum beauty of the array after doing <span class="tex-font-style-bf">at most</span> $$$k$$$ operations.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 5000$$$). The description of the test cases follows. </p><p>The first line of each test case contains two integers $$$n$$$ and $$$k$$$ ($$$1 \le n \le 5000$$$, $$$0 \le k \le 10^{18}$$$) — the length of the array and the maximal number of operations. </p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \ldots a_n$$$ ($$$0 \le a_i \le 10^9$$$) —denoting the array $$$a$$$.</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$5000$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer, the maximum beauty after at most $$$k$$$ operations.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006467916376054282" id="id008104321506099956" class="input-output-copier">Copy</div></div><pre id="id006467916376054282"><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">5 2</div><div class="test-example-line test-example-line-odd test-example-line-1">0 1 7 2 4</div><div class="test-example-line test-example-line-even test-example-line-2">5 3</div><div class="test-example-line test-example-line-even test-example-line-2">0 1 7 2 4</div><div class="test-example-line test-example-line-odd test-example-line-3">1 1</div><div class="test-example-line test-example-line-odd test-example-line-3">3</div><div class="test-example-line test-example-line-even test-example-line-4">3 0</div><div class="test-example-line test-example-line-even test-example-line-4">2 0 3</div><div class="test-example-line test-example-line-odd test-example-line-5">1 100000000000</div><div class="test-example-line test-example-line-odd test-example-line-5">0</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0018666733477420627" id="id006908894247915368" class="input-output-copier">Copy</div></div><pre id="id0018666733477420627">8
+9
+2
+3
+36
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, $$$a = [0, 1, 7, 2, 4]$$$. </p><ul> <li> apply the first operation at $$$i = 1$$$, the new array is $$$a = [1, 1, 7, 2, 4]$$$ </li><li> apply the second operation at $$$i = 4$$$, the new array is $$$a = [1, 1, 7, 3, 4]$$$ </li></ul> The beauty of this array is $$$1 + 1 + 3 + 2 + 1 = 8$$$. One of the other valid solutions with the same beauty is $$$[0, 1, 7, 3, 5]$$$.<p>In the third test case, $$$a = [3]$$$. Since you are not required to use exactly $$$k$$$ operations, it is optimal to do none.</p></div>
