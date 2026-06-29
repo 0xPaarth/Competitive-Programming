@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 13 |
+| 29 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (10)
-- [bitmasks](#bitmasks) (7)
+- [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (7)
 - [greedy](#greedy) (6)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (3)
 - [sortings](#sortings) (1)
@@ -50,6 +50,7 @@
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.cpp) |
 | 1073E | [Segment Sum](https://codeforces.com/contest/1073/problem/E) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1073/E%20-%20Segment%20Sum/solution.cpp) |
 | 1368D | [AND, OR and square sum](https://codeforces.com/contest/1368/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1368/D%20-%20AND%2C%20OR%20and%20square%20sum/solution.cpp) |
+| 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
@@ -121,6 +122,7 @@
 | 1073E | [Segment Sum](https://codeforces.com/contest/1073/problem/E) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1073/E%20-%20Segment%20Sum/solution.cpp) |
 | 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
 | 1368D | [AND, OR and square sum](https://codeforces.com/contest/1368/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1368/D%20-%20AND%2C%20OR%20and%20square%20sum/solution.cpp) |
+| 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 2118C | [Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2118/C%20-%20Make%20It%20Beautiful/solution.cpp) |
 
