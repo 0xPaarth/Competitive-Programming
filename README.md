@@ -6,22 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 11 |
+| 25 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (10)
-- [bitmasks](#bitmasks) (3)
+- [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (7)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (7)
 - [greedy](#greedy) (3)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (3)
+- [sortings](#sortings) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -48,6 +50,7 @@
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.cpp) |
 | 1073E | [Segment Sum](https://codeforces.com/contest/1073/problem/E) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1073/E%20-%20Segment%20Sum/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 
 ### brute force
 
@@ -67,6 +70,12 @@
 | 1073E | [Segment Sum](https://codeforces.com/contest/1073/problem/E) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1073/E%20-%20Segment%20Sum/solution.cpp) |
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 | 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 
 ### data structures
 
@@ -119,6 +128,12 @@
 | 312B | [Archer](https://codeforces.com/contest/312/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/312/B%20-%20Archer/solution.cpp) |
 | 453A | [Little Pony and Expected Maximum](https://codeforces.com/contest/453/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/453/A%20-%20Little%20Pony%20and%20Expected%20Maximum/solution.cpp) |
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 
 ### two pointers
 
