@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 16 |
+| 47 | 20 |
 
 ---
 
@@ -19,14 +19,18 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (4)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (9)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (1)
 - [interactive](#interactive) (1)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (4)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -126,6 +130,12 @@
 | 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 2118C | [Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2118/C%20-%20Make%20It%20Beautiful/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -139,6 +149,12 @@
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 
 ### greedy
 
@@ -203,11 +219,23 @@
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.cpp) |
 | 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.cpp) |
 
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 
 ### two pointers
 
