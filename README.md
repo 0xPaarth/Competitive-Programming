@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 20 |
+| 49 | 20 |
 
 ---
 
@@ -19,16 +19,16 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (4)
-- [dfs and similar](#dfs-and-similar) (2)
+- [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (9)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (1)
 - [interactive](#interactive) (1)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (4)
-- [shortest paths](#shortest-paths) (2)
+- [shortest paths](#shortest-paths) (3)
 - [sortings](#sortings) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (2)
@@ -137,6 +137,7 @@
 |---|---------|------------|----------|
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### dp
 
@@ -157,6 +158,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### greedy
 
@@ -227,6 +229,7 @@
 |---|---------|------------|----------|
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### sortings
 
