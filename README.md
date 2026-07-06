@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 21 |
+| 54 | 21 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (7)
-- [dp](#dp) (11)
+- [dfs and similar](#dfs-and-similar) (8)
+- [dp](#dp) (12)
 - [graphs](#graphs) (6)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [interactive](#interactive) (1)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
@@ -148,6 +148,7 @@
 | 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 | 1651D | [Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1651/D%20-%20Nearest%20Excluded%20Points/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
+| 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 
 ### dp
 
@@ -164,6 +165,7 @@
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
+| 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 
 ### graphs
 
@@ -203,6 +205,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 754A | [Lesha and array splitting](https://codeforces.com/contest/754/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/754/A%20-%20Lesha%20and%20array%20splitting/solution.cpp) |
+| 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 
 ### interactive
 
