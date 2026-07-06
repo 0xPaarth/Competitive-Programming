@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 20 |
+| 53 | 21 |
 
 ---
 
@@ -19,16 +19,17 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (6)
+- [dfs and similar](#dfs-and-similar) (7)
 - [dp](#dp) (11)
-- [graphs](#graphs) (5)
+- [graphs](#graphs) (6)
 - [greedy](#greedy) (11)
+- [hashing](#hashing) (1)
 - [implementation](#implementation) (1)
 - [interactive](#interactive) (1)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (4)
-- [shortest paths](#shortest-paths) (6)
+- [shortest paths](#shortest-paths) (7)
 - [sortings](#sortings) (1)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (2)
@@ -141,6 +142,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
+| 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 | 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
@@ -167,6 +169,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 | 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
@@ -188,6 +191,12 @@
 | 2118C | [Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2118/C%20-%20Make%20It%20Beautiful/solution.cpp) |
 | 2237B | [Annoying the Ghost](https://codeforces.com/contest/2237/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/B%20-%20Annoying%20the%20Ghost/solution.cpp) |
 | 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 
 ### implementation
 
@@ -242,6 +251,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
+| 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 | 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
