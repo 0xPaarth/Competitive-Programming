@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 21 |
+| 56 | 21 |
 
 ---
 
@@ -17,12 +17,12 @@
 - [bitmasks](#bitmasks) (18)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (9)
+- [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (9)
+- [dfs and similar](#dfs-and-similar) (10)
 - [dp](#dp) (12)
-- [graphs](#graphs) (7)
-- [greedy](#greedy) (12)
+- [graphs](#graphs) (8)
+- [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
 - [interactive](#interactive) (1)
@@ -122,6 +122,7 @@
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1325D | [Ehab the Xorcist](https://codeforces.com/contest/1325/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/D%20-%20Ehab%20the%20Xorcist/solution.cpp) |
+| 1325F | [Ehab's Last Theorem](https://codeforces.com/contest/1325/problem/F) | 2500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/F%20-%20Ehab's%20Last%20Theorem/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
@@ -147,6 +148,7 @@
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 | 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
+| 1325F | [Ehab's Last Theorem](https://codeforces.com/contest/1325/problem/F) | 2500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/F%20-%20Ehab's%20Last%20Theorem/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1651D | [Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1651/D%20-%20Nearest%20Excluded%20Points/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
@@ -177,6 +179,7 @@
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 | 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
+| 1325F | [Ehab's Last Theorem](https://codeforces.com/contest/1325/problem/F) | 2500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/F%20-%20Ehab's%20Last%20Theorem/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1651D | [Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1651/D%20-%20Nearest%20Excluded%20Points/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
@@ -188,6 +191,7 @@
 | 754A | [Lesha and array splitting](https://codeforces.com/contest/754/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/754/A%20-%20Lesha%20and%20array%20splitting/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1325D | [Ehab the Xorcist](https://codeforces.com/contest/1325/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/D%20-%20Ehab%20the%20Xorcist/solution.cpp) |
+| 1325F | [Ehab's Last Theorem](https://codeforces.com/contest/1325/problem/F) | 2500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/F%20-%20Ehab's%20Last%20Theorem/solution.cpp) |
 | 1368D | [AND, OR and square sum](https://codeforces.com/contest/1368/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1368/D%20-%20AND%2C%20OR%20and%20square%20sum/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
