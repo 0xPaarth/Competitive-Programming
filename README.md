@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 21 |
+| 59 | 23 |
 
 ---
 
@@ -19,8 +19,10 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (12)
+- [dfs and similar](#dfs-and-similar) (13)
+- [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (12)
+- [dsu](#dsu) (1)
 - [graphs](#graphs) (10)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
@@ -143,6 +145,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 19E | [Fairy](https://codeforces.com/contest/19/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/19/E%20-%20Fairy/solution.cpp) |
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
@@ -155,6 +158,12 @@
 | 1651D | [Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1651/D%20-%20Nearest%20Excluded%20Points/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
+
+### divide and conquer
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 19E | [Fairy](https://codeforces.com/contest/19/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/19/E%20-%20Fairy/solution.cpp) |
 
 ### dp
 
@@ -172,6 +181,12 @@
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
 | 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 19E | [Fairy](https://codeforces.com/contest/19/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/19/E%20-%20Fairy/solution.cpp) |
 
 ### graphs
 
