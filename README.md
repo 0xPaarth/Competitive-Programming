@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 23 |
+| 60 | 23 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (13)
+- [dfs and similar](#dfs-and-similar) (14)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (12)
 - [dsu](#dsu) (1)
-- [graphs](#graphs) (10)
+- [graphs](#graphs) (11)
 - [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
@@ -148,6 +148,7 @@
 | 19E | [Fairy](https://codeforces.com/contest/19/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/19/E%20-%20Fairy/solution.cpp) |
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
+| 263D | [Cycle in Graph](https://codeforces.com/contest/263/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/263/D%20-%20Cycle%20in%20Graph/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
@@ -193,6 +194,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
+| 263D | [Cycle in Graph](https://codeforces.com/contest/263/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/263/D%20-%20Cycle%20in%20Graph/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
