@@ -1,0 +1,30 @@
+<h2><a href="https://codeforces.com/contest/2045/problem/L" target="_blank" rel="noopener noreferrer">2045L — Buggy DFS</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 3000 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2045L](https://codeforces.com/contest/2045/problem/L) |
+
+## Topics
+`constructive algorithms`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">L. Buggy DFS</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>1024 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are currently studying a graph traversal algorithm called the Depth First Search (DFS). However, due to a bug, your algorithm is slightly different from the standard DFS. The following is an algorithm for your Buggy DFS (BDFS), assuming the graph has $$$N$$$ nodes (numbered from $$$1$$$ to $$$N$$$).</p><pre class="verbatim"><br>  BDFS():<br>    let S be an empty stack<br>    let FLAG be a boolean array of size N which are all false initially<br>    let counter be an integer initialized with 0<br><br>    push 1 to S<br><br>    while S is not empty:<br>      pop the top element of S into u<br>      FLAG[u] = true<br><br>      for each v neighbour of u in ascending order:<br>        counter = counter + 1<br>        if FLAG[v] is false:<br>          push v to S<br><br>    return counter<br></pre><p>You realized that the bug made the algorithm slower than standard DFS, which can be investigated by the return value of the function <span class="tex-font-style-tt">BDFS()</span>. To investigate the behavior of this algorithm, you want to make some test cases by constructing an undirected simple graph such that the function <span class="tex-font-style-tt">BDFS()</span> returns $$$K$$$, or determine if it is impossible to do so.</p></div><div class="input-specification"><div class="section-title">Input</div><p>A single line consisting of an integer $$$K$$$ ($$$1 \leq K \leq 10^9$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>If it is impossible to construct an undirected simple graph such that the function <span class="tex-font-style-tt">BDFS()</span> returns $$$K$$$, then output <span class="tex-font-style-tt">-1 -1</span> in a single line.</p><p>Otherwise, output the graph in the following format. The first line consists of two integers $$$N$$$ and $$$M$$$, representing the number of nodes and undirected edges in the graph, respectively. Each of the next $$$M$$$ lines consists of two integers $$$u$$$ and $$$v$$$, representing an undirected edge that connects node $$$u$$$ and node $$$v$$$. You are allowed to output the edges in any order. This graph has to satisfy the following constraints:</p><ul> <li> $$$1 \leq N \leq 32\,768$$$ </li><li> $$$1 \leq M \leq 65\,536$$$ </li><li> $$$1 \leq u, v \leq N$$$, for all edges. </li><li> The graph is a simple graph, i.e. there are no multi-edges nor self-loops. </li></ul><p>Note that you are not required to minimize the number of nodes or edges. It can be proven that if constructing a graph in which the return value of <span class="tex-font-style-tt">BDFS()</span> is $$$K$$$ is possible, then there exists one that satisfies all the constraints above. If there are several solutions, you can output any of them.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007479511983328476" id="id009975791405284784" class="input-output-copier">Copy</div></div><pre id="id007479511983328476">8
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006954310602153974" id="id006850581167786446" class="input-output-copier">Copy</div></div><pre id="id006954310602153974">3 3
+1 2
+1 3
+2 3</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005955000990752211" id="id005960426105221345" class="input-output-copier">Copy</div></div><pre id="id005955000990752211">1
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0045708101859098804" id="id0013600440677633496" class="input-output-copier">Copy</div></div><pre id="id0045708101859098804">-1 -1</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008998781094872621" id="id0010595599908645104" class="input-output-copier">Copy</div></div><pre id="id008998781094872621">23
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00516824566036933" id="id0018944254147701467" class="input-output-copier">Copy</div></div><pre id="id00516824566036933">5 7
+4 5
+2 3
+3 1
+2 4
+4 3
+2 1
+1 5</pre></div></div></div><div class="note"><div class="section-title">Note</div><p><span class="tex-font-style-it">Explanation for the sample input/output #1</span></p><p>The graph on the left describes the output of this sample. The graph on the right describes another valid solution for this sample.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/e903491b5f70580db26eef65c67ae0a23a691eb0.png" style="max-width: 100.0%;max-height: 100.0%;" width="265px"> </center><p><span class="tex-font-style-it">Explanation for the sample input/output #3</span></p><p>The following graph describes the output of this sample.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/86b7046559ae61a00f00ab60cbe48925f3bee8bc.png" style="max-width: 100.0%;max-height: 100.0%;" width="189px"> </center></div>
