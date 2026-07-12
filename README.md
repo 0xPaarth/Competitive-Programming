@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 23 |
+| 65 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (15)
+- [Uncategorized](#uncategorized) (16)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (18)
 - [brute force](#brute-force) (7)
@@ -42,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 378C | [Maze](https://codeforces.com/contest/378/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/378/C%20-%20Maze/solution.cpp) |
 | 553A | [Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/553/A%20-%20Kyoya%20and%20Colored%20Balls/solution.cpp) |
 | 1501C | [Going Home](https://codeforces.com/contest/1501/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1501/C%20-%20Going%20Home/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
