@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 23 |
+| 71 | 23 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (5)
-- [bitmasks](#bitmasks) (18)
+- [bitmasks](#bitmasks) (19)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (11)
+- [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (18)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -27,8 +27,8 @@
 - [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
-- [interactive](#interactive) (1)
-- [math](#math) (13)
+- [interactive](#interactive) (2)
+- [math](#math) (14)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (4)
 - [shortest paths](#shortest-paths) (7)
@@ -87,6 +87,7 @@
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
+| 1556D | [Take a Guess](https://codeforces.com/contest/1556/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1556/D%20-%20Take%20a%20Guess/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
@@ -132,6 +133,7 @@
 | 1325F | [Ehab's Last Theorem](https://codeforces.com/contest/1325/problem/F) | 2500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/F%20-%20Ehab's%20Last%20Theorem/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.cpp) |
+| 1556D | [Take a Guess](https://codeforces.com/contest/1556/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1556/D%20-%20Take%20a%20Guess/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 2045L | [Buggy DFS](https://codeforces.com/contest/2045/problem/L) | 3000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2045/L%20-%20Buggy%20DFS/solution.cpp) |
@@ -257,6 +259,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1556D | [Take a Guess](https://codeforces.com/contest/1556/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1556/D%20-%20Take%20a%20Guess/solution.cpp) |
 | 2156D | [Find the Last Number](https://codeforces.com/contest/2156/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2156/D%20-%20Find%20the%20Last%20Number/solution.cpp) |
 
 ### math
@@ -273,6 +276,7 @@
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
+| 1556D | [Take a Guess](https://codeforces.com/contest/1556/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1556/D%20-%20Take%20a%20Guess/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 2118C | [Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2118/C%20-%20Make%20It%20Beautiful/solution.cpp) |
