@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 23 |
+| 70 | 23 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (5)
-- [dfs and similar](#dfs-and-similar) (17)
+- [dfs and similar](#dfs-and-similar) (18)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (13)
 - [dsu](#dsu) (2)
-- [graphs](#graphs) (14)
+- [graphs](#graphs) (15)
 - [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
@@ -33,7 +33,7 @@
 - [probabilities](#probabilities) (4)
 - [shortest paths](#shortest-paths) (7)
 - [sortings](#sortings) (1)
-- [trees](#trees) (5)
+- [trees](#trees) (6)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -155,6 +155,7 @@
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 263D | [Cycle in Graph](https://codeforces.com/contest/263/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/263/D%20-%20Cycle%20in%20Graph/solution.cpp) |
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
@@ -206,6 +207,7 @@
 |---|---------|------------|----------|
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 263D | [Cycle in Graph](https://codeforces.com/contest/263/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/263/D%20-%20Cycle%20in%20Graph/solution.cpp) |
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
@@ -315,6 +317,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
