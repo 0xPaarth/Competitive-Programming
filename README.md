@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 24 |
+| 78 | 24 |
 
 ---
 
@@ -16,25 +16,25 @@
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (19)
 - [brute force](#brute-force) (7)
-- [combinatorics](#combinatorics) (8)
+- [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (18)
+- [dfs and similar](#dfs-and-similar) (19)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (15)
+- [dp](#dp) (16)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (15)
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
 - [interactive](#interactive) (2)
-- [math](#math) (14)
+- [math](#math) (15)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (4)
 - [shortest paths](#shortest-paths) (7)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
-- [trees](#trees) (7)
+- [trees](#trees) (8)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -126,6 +126,7 @@
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 | 1305C | [Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1305/C%20-%20Kuroni%20and%20Impossible%20Calculation/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
+| 1843D | [Apple Tree](https://codeforces.com/contest/1843/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1843/D%20-%20Apple%20Tree/solution.cpp) |
 
 ### constructive algorithms
 
@@ -176,6 +177,7 @@
 | 1651D | [Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1651/D%20-%20Nearest%20Excluded%20Points/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
+| 1843D | [Apple Tree](https://codeforces.com/contest/1843/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1843/D%20-%20Apple%20Tree/solution.cpp) |
 | 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 
 ### divide and conquer
@@ -199,6 +201,7 @@
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
+| 1843D | [Apple Tree](https://codeforces.com/contest/1843/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1843/D%20-%20Apple%20Tree/solution.cpp) |
 | 1872E | [Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1872/E%20-%20Data%20Structures%20Fan/solution.cpp) |
 | 1941D | [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1941/D%20-%20Rudolf%20and%20the%20Ball%20Game/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
@@ -286,6 +289,7 @@
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
 | 1556D | [Take a Guess](https://codeforces.com/contest/1556/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1556/D%20-%20Take%20a%20Guess/solution.cpp) |
+| 1843D | [Apple Tree](https://codeforces.com/contest/1843/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1843/D%20-%20Apple%20Tree/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1973B | [Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1973/B%20-%20Cat%2C%20Fox%20and%20the%20Lonely%20Array/solution.cpp) |
 | 2118C | [Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2118/C%20-%20Make%20It%20Beautiful/solution.cpp) |
@@ -342,6 +346,7 @@
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
+| 1843D | [Apple Tree](https://codeforces.com/contest/1843/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1843/D%20-%20Apple%20Tree/solution.cpp) |
 | 2244F | [Anya Loves Trees!](https://codeforces.com/contest/2244/problem/F) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/2244/F%20-%20Anya%20Loves%20Trees!/solution.cpp) |
 
 ### two pointers
