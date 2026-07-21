@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 24 |
+| 91 | 24 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (23)
-- [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (20)
+- [dfs and similar](#dfs-and-similar) (24)
+- [divide and conquer](#divide-and-conquer) (2)
+- [dp](#dp) (21)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (17)
-- [greedy](#greedy) (18)
+- [greedy](#greedy) (19)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
 - [interactive](#interactive) (2)
@@ -34,7 +34,7 @@
 - [shortest paths](#shortest-paths) (7)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
-- [trees](#trees) (12)
+- [trees](#trees) (13)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -185,6 +185,7 @@
 | 1325F | [Ehab's Last Theorem](https://codeforces.com/contest/1325/problem/F) | 2500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/F%20-%20Ehab's%20Last%20Theorem/solution.cpp) |
 | 1336A | [Linova and Kingdom](https://codeforces.com/contest/1336/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1336/A%20-%20Linova%20and%20Kingdom/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
+| 1528A | [Parsa's Humongous Tree](https://codeforces.com/contest/1528/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1528/A%20-%20Parsa's%20Humongous%20Tree/solution.cpp) |
 | 1651D | [Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1651/D%20-%20Nearest%20Excluded%20Points/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
@@ -197,6 +198,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 19E | [Fairy](https://codeforces.com/contest/19/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/19/E%20-%20Fairy/solution.cpp) |
+| 1528A | [Parsa's Humongous Tree](https://codeforces.com/contest/1528/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1528/A%20-%20Parsa's%20Humongous%20Tree/solution.cpp) |
 
 ### dp
 
@@ -213,6 +215,7 @@
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 | 1288C | [Two Arrays](https://codeforces.com/contest/1288/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1288/C%20-%20Two%20Arrays/solution.cpp) |
 | 1336A | [Linova and Kingdom](https://codeforces.com/contest/1336/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1336/A%20-%20Linova%20and%20Kingdom/solution.cpp) |
+| 1528A | [Parsa's Humongous Tree](https://codeforces.com/contest/1528/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1528/A%20-%20Parsa's%20Humongous%20Tree/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 | 1731E | [Graph Cost](https://codeforces.com/contest/1731/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1731/E%20-%20Graph%20Cost/solution.cpp) |
@@ -265,6 +268,7 @@
 | 1368D | [AND, OR and square sum](https://codeforces.com/contest/1368/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1368/D%20-%20AND%2C%20OR%20and%20square%20sum/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
+| 1528A | [Parsa's Humongous Tree](https://codeforces.com/contest/1528/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1528/A%20-%20Parsa's%20Humongous%20Tree/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1661B | [Getting Zero](https://codeforces.com/contest/1661/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1661/B%20-%20Getting%20Zero/solution.cpp) |
 | 1731E | [Graph Cost](https://codeforces.com/contest/1731/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1731/E%20-%20Graph%20Cost/solution.cpp) |
@@ -372,6 +376,7 @@
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/contest/1325/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1325/C%20-%20Ehab%20and%20Path-etic%20MEXs/solution.cpp) |
 | 1336A | [Linova and Kingdom](https://codeforces.com/contest/1336/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1336/A%20-%20Linova%20and%20Kingdom/solution.cpp) |
 | 1391E | [Pairs of Pairs](https://codeforces.com/contest/1391/problem/E) | 2600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1391/E%20-%20Pairs%20of%20Pairs/solution.cpp) |
+| 1528A | [Parsa's Humongous Tree](https://codeforces.com/contest/1528/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1528/A%20-%20Parsa's%20Humongous%20Tree/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 | 1805D | [A Wide, Wide Graph](https://codeforces.com/contest/1805/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1805/D%20-%20A%20Wide%2C%20Wide%20Graph/solution.cpp) |
 | 1843D | [Apple Tree](https://codeforces.com/contest/1843/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1843/D%20-%20Apple%20Tree/solution.cpp) |
