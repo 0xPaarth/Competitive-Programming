@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 24 |
+| 94 | 24 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (26)
+- [dfs and similar](#dfs-and-similar) (27)
 - [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (22)
+- [dp](#dp) (23)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (18)
 - [greedy](#greedy) (20)
@@ -34,7 +34,7 @@
 - [shortest paths](#shortest-paths) (7)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
-- [trees](#trees) (15)
+- [trees](#trees) (16)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -176,6 +176,7 @@
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 700B | [Connecting Universities](https://codeforces.com/contest/700/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/700/B%20-%20Connecting%20Universities/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
+| 734E | [Anton and Tree](https://codeforces.com/contest/734/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/734/E%20-%20Anton%20and%20Tree/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
 | 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
@@ -211,6 +212,7 @@
 | 577B | [Modulo Sum](https://codeforces.com/contest/577/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/577/B%20-%20Modulo%20Sum/solution.cpp) |
 | 687C | [The Values You Can Make](https://codeforces.com/contest/687/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/687/C%20-%20The%20Values%20You%20Can%20Make/solution.cpp) |
 | 700B | [Connecting Universities](https://codeforces.com/contest/700/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/700/B%20-%20Connecting%20Universities/solution.cpp) |
+| 734E | [Anton and Tree](https://codeforces.com/contest/734/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/734/E%20-%20Anton%20and%20Tree/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 837D | [Round Subset](https://codeforces.com/contest/837/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/837/D%20-%20Round%20Subset/solution.cpp) |
 | 1036C | [Classy Numbers](https://codeforces.com/contest/1036/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1036/C%20-%20Classy%20Numbers/solution.cpp) |
@@ -376,6 +378,7 @@
 |---|---------|------------|----------|
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 700B | [Connecting Universities](https://codeforces.com/contest/700/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/700/B%20-%20Connecting%20Universities/solution.cpp) |
+| 734E | [Anton and Tree](https://codeforces.com/contest/734/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/734/E%20-%20Anton%20and%20Tree/solution.cpp) |
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 | 962F | [Simple Cycles Edges](https://codeforces.com/contest/962/problem/F) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/962/F%20-%20Simple%20Cycles%20Edges/solution.cpp) |
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
