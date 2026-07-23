@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 97 | 24 |
+| 98 | 24 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (30)
-- [divide and conquer](#divide-and-conquer) (2)
-- [dp](#dp) (25)
+- [dfs and similar](#dfs-and-similar) (31)
+- [divide and conquer](#divide-and-conquer) (3)
+- [dp](#dp) (26)
 - [dsu](#dsu) (2)
 - [graphs](#graphs) (19)
 - [greedy](#greedy) (22)
@@ -34,7 +34,7 @@
 - [shortest paths](#shortest-paths) (7)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
-- [trees](#trees) (19)
+- [trees](#trees) (20)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -175,6 +175,7 @@
 | 35C | [Fire Again](https://codeforces.com/contest/35/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/35/C%20-%20Fire%20Again/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 263D | [Cycle in Graph](https://codeforces.com/contest/263/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/263/D%20-%20Cycle%20in%20Graph/solution.cpp) |
+| 337D | [Book of Evil](https://codeforces.com/contest/337/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/337/D%20-%20Book%20of%20Evil/solution.cpp) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 700B | [Connecting Universities](https://codeforces.com/contest/700/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/700/B%20-%20Connecting%20Universities/solution.cpp) |
 | 732F | [Tourist Reform](https://codeforces.com/contest/732/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/732/F%20-%20Tourist%20Reform/solution.cpp) |
@@ -207,12 +208,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 19E | [Fairy](https://codeforces.com/contest/19/problem/E) | 2900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/19/E%20-%20Fairy/solution.cpp) |
+| 337D | [Book of Evil](https://codeforces.com/contest/337/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/337/D%20-%20Book%20of%20Evil/solution.cpp) |
 | 1528A | [Parsa's Humongous Tree](https://codeforces.com/contest/1528/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/1528/A%20-%20Parsa's%20Humongous%20Tree/solution.cpp) |
 
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 337D | [Book of Evil](https://codeforces.com/contest/337/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/337/D%20-%20Book%20of%20Evil/solution.cpp) |
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.cpp) |
 | 577B | [Modulo Sum](https://codeforces.com/contest/577/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/577/B%20-%20Modulo%20Sum/solution.cpp) |
 | 687C | [The Values You Can Make](https://codeforces.com/contest/687/problem/C) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/687/C%20-%20The%20Values%20You%20Can%20Make/solution.cpp) |
@@ -386,6 +389,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 337D | [Book of Evil](https://codeforces.com/contest/337/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/337/D%20-%20Book%20of%20Evil/solution.cpp) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.cpp) |
 | 700B | [Connecting Universities](https://codeforces.com/contest/700/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/700/B%20-%20Connecting%20Universities/solution.cpp) |
 | 734E | [Anton and Tree](https://codeforces.com/contest/734/problem/E) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/0xPaarth/Competitive-Programming/blob/HEAD/734/E%20-%20Anton%20and%20Tree/solution.cpp) |
